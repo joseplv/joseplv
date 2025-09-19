@@ -1,6 +1,6 @@
 # Hola, soy **Josep Abel Lastra Vásquez** 👋
 
-Estudiante de **Ciencias Políticas** en el **9.o ciclo** de la **UPC**, con enfoque en **políticas públicas** y **análisis de datos cuantitativos**. Me especializo en **análisis estadístico**, **visualización de datos** y **modelos predictivos**.
+Estudiante de **Ciencias Políticas** en el **9.o ciclo** de la **UPC,** con enfoque en **políticas públicas** y **análisis de datos.** Me especializo en **análisis estadístico,** **visualización de datos** y **modelos predictivos**.
 
 ## 🌱 Actualmente aprendiendo:
 - **Python** y **Power BI** para análisis de datos y visualización.
