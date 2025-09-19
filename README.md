@@ -1,4 +1,4 @@
-## Hi there Josep Lastra 👋
+## Hello, my name is Josep LASTRA 👋
 
 <!--
 **joseplv/joseplv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
